@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Khid spravy//UK
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Хід справи — засідання
+BEGIN:VEVENT
+UID:k11-20261012T100000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261012T100000
+SUMMARY:Засідання: Керівник Департаменту фінансів КМДА
+LOCATION:Шевченківський районний суд міста Києва\, зал 502
+END:VEVENT
+BEGIN:VEVENT
+UID:k12-20261012T100000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261012T100000
+SUMMARY:Засідання: Директор комунального підприємства та двоє його колишніх керівників
+LOCATION:Одеський апеляційний суд\, зал 9
+END:VEVENT
+BEGIN:VEVENT
+UID:k27-20261012T110000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261012T110000
+SUMMARY:Засідання: Керівник столичного комунального підприємства і працівник правоохоронного органу (його син\, теж підозрюваний)
+LOCATION:Закарпатський апеляційний суд
+END:VEVENT
+BEGIN:VEVENT
+UID:k18-20261012T143000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261012T143000
+SUMMARY:Засідання: Колишній посадовець управління капітального будівництва ОВА
+LOCATION:Львівський апеляційний суд
+END:VEVENT
+BEGIN:VEVENT
+UID:k23-20261012T143000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261012T143000
+SUMMARY:Засідання: Чинні та колишні начальники районних ТЦК (також заступник начальника РТЦК)
+LOCATION:Кельменецький районний суд Чернівецької області\, зал судового засідання №1
+END:VEVENT
+BEGIN:VEVENT
+UID:k18-20261013T104500@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261013T104500
+SUMMARY:Засідання: Колишній посадовець управління капітального будівництва ОВА
+LOCATION:Львівський апеляційний суд
+END:VEVENT
+BEGIN:VEVENT
+UID:k31-20261013T113000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261013T113000
+SUMMARY:Засідання: Заступник голови обласної ради
+LOCATION:Одеський апеляційний суд\, зал 9
+END:VEVENT
+BEGIN:VEVENT
+UID:k48-20261013T150000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261013T150000
+SUMMARY:Засідання: Керівник ГУ Держпродспоживслужби в області
+LOCATION:Личаківський районний суд м.Львова\, зал № 10
+END:VEVENT
+BEGIN:VEVENT
+UID:k34-20261014T100000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261014T100000
+SUMMARY:Засідання: Колишній міський голова
+LOCATION:Закарпатський апеляційний суд
+END:VEVENT
+BEGIN:VEVENT
+UID:k22-20261014T160000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261014T160000
+SUMMARY:Засідання: Т.в.о. начальника обласного ТЦК та СП
+LOCATION:Житомирський апеляційний суд
+END:VEVENT
+BEGIN:VEVENT
+UID:k31-20261015T151500@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261015T151500
+SUMMARY:Засідання: Заступник голови обласної ради
+LOCATION:Київський районний суд м. Одеси\, зал 247
+END:VEVENT
+BEGIN:VEVENT
+UID:k18-20261020T102000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261020T102000
+SUMMARY:Засідання: Колишній посадовець управління капітального будівництва ОВА
+LOCATION:Львівський апеляційний суд
+END:VEVENT
+BEGIN:VEVENT
+UID:k31-20261021T110000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261021T110000
+SUMMARY:Засідання: Заступник голови обласної ради
+LOCATION:Одеський апеляційний суд\, зал 12
+END:VEVENT
+BEGIN:VEVENT
+UID:k31-20261021T110000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261021T110000
+SUMMARY:Засідання: Заступник голови обласної ради
+LOCATION:Одеський апеляційний суд\, зал 12
+END:VEVENT
+BEGIN:VEVENT
+UID:k38-20261021T120000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261021T120000
+SUMMARY:Засідання: Директор психоневрологічного інтернату
+LOCATION:Кременецький районний суд Тернопільської області
+END:VEVENT
+BEGIN:VEVENT
+UID:k23-20261022T140000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261022T140000
+SUMMARY:Засідання: Чинні та колишні начальники районних ТЦК (також заступник начальника РТЦК)
+LOCATION:Вижницький районний суд Чернівецької області
+END:VEVENT
+END:VCALENDAR
