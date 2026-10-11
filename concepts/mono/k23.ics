@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Khid spravy//UK
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:k23-20261012T143000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261012T143000
+SUMMARY:Засідання: Чинні та колишні начальники районних ТЦК (також заступник начальника РТЦК)
+LOCATION:Кельменецький районний суд Чернівецької області\, зал судового засідання №1
+DESCRIPTION:Хід справи. Засідання\, як правило\, відкрите (ст. 27 КПК).
+END:VEVENT
+BEGIN:VEVENT
+UID:k23-20261022T140000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261022T140000
+SUMMARY:Засідання: Чинні та колишні начальники районних ТЦК (також заступник начальника РТЦК)
+LOCATION:Вижницький районний суд Чернівецької області
+DESCRIPTION:Хід справи. Засідання\, як правило\, відкрите (ст. 27 КПК).
+END:VEVENT
+END:VCALENDAR

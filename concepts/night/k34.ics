@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Khid spravy//UK
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:k34-20261014T100000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261014T100000
+SUMMARY:Засідання: Колишній міський голова
+LOCATION:Закарпатський апеляційний суд
+DESCRIPTION:Хід справи. Засідання\, як правило\, відкрите (ст. 27 КПК).
+END:VEVENT
+END:VCALENDAR

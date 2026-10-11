@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Khid spravy//UK
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:k27-20261012T110000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261012T110000
+SUMMARY:Засідання: Керівник столичного комунального підприємства і працівник правоохоронного органу (його син\, теж підозрюваний)
+LOCATION:Закарпатський апеляційний суд
+DESCRIPTION:Хід справи. Засідання\, як правило\, відкрите (ст. 27 КПК).
+END:VEVENT
+END:VCALENDAR

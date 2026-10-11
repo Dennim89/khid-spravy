@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Khid spravy//UK
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:k31-20261013T113000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261013T113000
+SUMMARY:Засідання: Заступник голови обласної ради
+LOCATION:Одеський апеляційний суд\, зал 9
+DESCRIPTION:Хід справи. Засідання\, як правило\, відкрите (ст. 27 КПК).
+END:VEVENT
+BEGIN:VEVENT
+UID:k31-20261015T151500@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261015T151500
+SUMMARY:Засідання: Заступник голови обласної ради
+LOCATION:Київський районний суд м. Одеси\, зал 247
+DESCRIPTION:Хід справи. Засідання\, як правило\, відкрите (ст. 27 КПК).
+END:VEVENT
+BEGIN:VEVENT
+UID:k31-20261021T110000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261021T110000
+SUMMARY:Засідання: Заступник голови обласної ради
+LOCATION:Одеський апеляційний суд\, зал 12
+DESCRIPTION:Хід справи. Засідання\, як правило\, відкрите (ст. 27 КПК).
+END:VEVENT
+BEGIN:VEVENT
+UID:k31-20261021T110000@khid-spravy
+DTSTAMP:20261011T000000Z
+DTSTART:20261021T110000
+SUMMARY:Засідання: Заступник голови обласної ради
+LOCATION:Одеський апеляційний суд\, зал 12
+DESCRIPTION:Хід справи. Засідання\, як правило\, відкрите (ст. 27 КПК).
+END:VEVENT
+END:VCALENDAR
